@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	int num1 = 0, num2=0 ;		//변수 num1, num2의 선언 및 쓰레기값 초기화 (선언만으로 디버깅 가능 ?)
+	int num1 = 0, num2=0 ;		//변수 num1, num2의 선언 및 쓰레기값 초기화 (선언만으로 디버깅 가능한가 ?)
 	int num3 = 30, num4 = 40;	//변수 num3, num4의 선언 및 초기화
 
 	printf("num1 : %d, num2 : %d \n", num1, num2);
