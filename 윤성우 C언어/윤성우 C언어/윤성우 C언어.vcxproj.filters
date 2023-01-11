@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제 03_2 .c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="예제 03_10.c">
+      <Filter>소스 파일\리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
