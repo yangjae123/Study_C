@@ -7,7 +7,7 @@ int main(void)
 	while (num < 5)
 	{
 		printf("Hello world! %d \n", num);
-		num++;
+		//num++;
 	}
 	return 0;
 }
