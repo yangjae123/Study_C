@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	int cun=0,is=0;
+	int cun = 0;
+	int is = 0;
 
 
 	while (cun<5)
